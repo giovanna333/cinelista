@@ -54,7 +54,7 @@ lib/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/cinelista.git
+   git clone https://github.com/giovanna333/cinelista.git
    cd cinelista
    ```
 2. Instale as dependências:
